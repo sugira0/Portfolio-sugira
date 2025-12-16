@@ -1,0 +1,25 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#374151"/>
+  <rect x="20" y="20" width="360" height="260" fill="none" stroke="#63b3ed" stroke-width="2"/>
+  
+  <!-- Browser mockup -->
+  <rect x="30" y="30" width="340" height="30" fill="#4a5568"/>
+  <circle cx="45" cy="45" r="5" fill="#ef4444"/>
+  <circle cx="65" cy="45" r="5" fill="#f59e0b"/>
+  <circle cx="85" cy="45" r="5" fill="#10b981"/>
+  
+  <!-- Content area -->
+  <rect x="30" y="70" width="340" height="200" fill="#2d3748"/>
+  
+  <!-- Legacy Heritage Tours mockup -->
+  <text x="200" y="120" text-anchor="middle" fill="#63b3ed" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Legacy Heritage Tours</text>
+  <text x="200" y="145" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="12">Travel & Tourism Website</text>
+  
+  <!-- Mock elements -->
+  <rect x="50" y="160" width="80" height="40" fill="#63b3ed" opacity="0.3"/>
+  <rect x="140" y="160" width="80" height="40" fill="#63b3ed" opacity="0.3"/>
+  <rect x="230" y="160" width="80" height="40" fill="#63b3ed" opacity="0.3"/>
+  <rect x="320" y="160" width="40" height="40" fill="#63b3ed" opacity="0.3"/>
+  
+  <text x="200" y="230" text-anchor="middle" fill="#a0aec0" font-family="Arial, sans-serif" font-size="10">Book Your Journey</text>
+</svg>

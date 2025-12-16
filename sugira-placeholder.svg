@@ -1,0 +1,12 @@
+<svg width="200" height="280" viewBox="0 0 200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Rectangle -->
+  <rect x="10" y="10" width="180" height="260" rx="12" fill="#374151"/>
+  <rect x="14" y="14" width="172" height="252" rx="8" fill="none" stroke="#63b3ed" stroke-width="4"/>
+  
+  <!-- User Icon -->
+  <circle cx="100" cy="120" r="25" fill="#63b3ed" opacity="0.8"/>
+  <path d="M100 160 C75 160, 60 175, 60 195 L140 195 C140 175, 125 160, 100 160 Z" fill="#63b3ed" opacity="0.8"/>
+  
+  <!-- Text -->
+  <text x="100" y="250" text-anchor="middle" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="14" font-weight="600">SUGIRA</text>
+</svg>

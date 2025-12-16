@@ -1,0 +1,14 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="40" rx="8" fill="none"/>
+  
+  <!-- SUGIRA Text -->
+  <text x="60" y="26" text-anchor="middle" fill="#63b3ed" font-family="Inter, sans-serif" font-size="18" font-weight="700" letter-spacing="1px">SUGIRA</text>
+  
+  <!-- Accent Line -->
+  <rect x="20" y="32" width="80" height="2" rx="1" fill="#63b3ed" opacity="0.6"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="15" cy="20" r="3" fill="#63b3ed" opacity="0.8"/>
+  <circle cx="105" cy="20" r="3" fill="#63b3ed" opacity="0.8"/>
+</svg>
